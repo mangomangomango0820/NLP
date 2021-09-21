@@ -15,7 +15,6 @@ from wordcloud import WordCloud, ImageColorGenerator
 from imageio import imread
 
 # 1. read file
-# 读取英文文件
 f = open('C://Users//Administrator//Desktop//practice.txt','rt')
 fd = f.read()
 # >> f = open('C://Users//Administrator//Desktop//practice.txt', 'rt').read()
